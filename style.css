@@ -1,0 +1,112 @@
+*{ 
+
+margin: 0;
+}
+
+ #Nime{
+     width: 100%;
+     background-color: black;
+     padding-top:15px;
+     padding-bottom:15px;
+     text-align:center;
+     margin-left:0 ;
+     margin-right:0; 
+font-weight:60px;
+ position: fixed;
+ font-size:20px;
+ font-style:bold;
+}
+#Nime a{
+      color:white;
+      text-align:center;
+      text-decoration:none;
+      padding:30px;
+     margin-left:3px;
+     
+     
+    
+}
+#main{
+  text-align:center;
+font-family:'Climate Crisis',cursive;
+text-decoration-color:yellow ;
+color:white ;
+font-size:100px;
+background-color: limegreen;
+margin-right: 100px;
+margin-left:100px;
+border-radius: 50px;
+margin-top: 0px;
+}
+.more{
+ text-decoration:none; 
+ margin-left:20px;
+ color:black;
+ background-color:palegreen;
+ text-align:center;
+ padding: 2px;
+ padding: 10px;
+ border-radius: 10px;
+}
+#Ammu{
+  text-align: center;
+ font-family:'Bebas Neue', sans-serif;
+ background-color:black;
+ color:white;
+ padding-bottom: 20px;
+ padding-top: 150px;
+ margin-bottom:0px ;
+ font-size: 20px;
+ position: bottom;
+}
+#Lorem{ 
+  text-align: center;
+}
+#Nishat{
+  text-align: center;
+  font-family:'Anton', sans-serif;
+  text-decoration: underline;
+  
+}
+#Abbu{
+  text-align: center;
+  font-family:'Anton', sans-serif;
+  text-decoration: underline;
+  
+}
+#Rabbi{
+ 
+  background-image:url(bc.jpeg); 
+  text-align:justify;
+}
+.lavel{
+  color: white;
+  padding-right:22px;
+  
+  
+}
+#Bsc{
+  position:bottom;
+  
+}
+#info{
+text-align: justify;
+margin-left:6px; 
+ margin-right:6px;
+ border:rebeccapurple solid 1px; 
+  padding: 6px;
+  color:black;
+  background-color: skyblue;
+}
+header a:hover{
+  background-color:limegreen ;
+background-size: 5px;
+border-radius: 20px;  
+padding:2px;
+
+}
+  
+form{
+  box-align: justify;
+  
+}  
